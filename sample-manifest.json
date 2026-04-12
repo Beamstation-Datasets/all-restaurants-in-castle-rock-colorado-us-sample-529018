@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2ae81dec-98ce-44f7-bf69-977643b6ea07",
+  "id_short": 529018,
+  "published_at": "2026-04-12T19:51:39Z",
+  "repo_name": "all-restaurants-in-castle-rock-colorado-us-sample-529018",
+  "sample_asset_name": "beamstation_529018_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/529018/beamstation_529018_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 4,
+  "sample_sha256": "64cb794ec67a120d439166cfb02dc5d8d04cf26f0e089ee8de41719b19851d35",
+  "sample_size_bytes": 31522,
+  "total_records": 49
+}
