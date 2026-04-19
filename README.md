@@ -9,9 +9,9 @@
 | Dataset ID | `529018` |
 | Location | Castle Rock |
 | Category | Restaurants |
-| Full dataset size | 49 records |
-| Free sample size | 4 records (8.16%) |
-| Last export | 2026-04-07T13:47:48.475552+00:00 |
+| Full dataset size | 47 records |
+| Free sample size | 4 records (8.51%) |
+| Last export | 2026-04-14T20:56:05.743867+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-castle-rock-colorado-us-sample-529018/releases/download/sample-latest/beamstation_529018_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
