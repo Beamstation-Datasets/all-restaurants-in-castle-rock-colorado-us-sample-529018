@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Castle Rock, Colorado. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Castle Rock, Colorado, US",
-  "export_job_id": "2ae81dec-98ce-44f7-bf69-977643b6ea07",
+  "export_job_id": "5c7eede0-bda3-483d-9315-d7de2c70ea80",
   "github_org": "Beamstation-Datasets",
   "id_short": 529018,
   "location_name": "Castle Rock",
   "location_type": "city",
   "repo_name": "all-restaurants-in-castle-rock-colorado-us-sample-529018",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/529018/beamstation_529018_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_pct": 8.16,
+  "sample_pct": 8.51,
   "sample_records": 4,
-  "sample_sha256": "64cb794ec67a120d439166cfb02dc5d8d04cf26f0e089ee8de41719b19851d35",
-  "sample_size_bytes": 31522,
-  "total_records": 49,
-  "updated_at": "2026-04-07T13:47:48.475552+00:00"
+  "sample_sha256": "e7a957545cb4882b92a50d8fec9097c83b8b8bebd2c7663c359739d6132b9610",
+  "sample_size_bytes": 27586,
+  "total_records": 47,
+  "updated_at": "2026-04-14T20:56:05.743867+00:00"
 }
