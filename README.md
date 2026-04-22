@@ -1,6 +1,6 @@
 # All Restaurants in Castle Rock, Colorado, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `529018` |
 | Location | Castle Rock |
 | Category | Restaurants |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-14T20:56:05.743867+00:00 |
+| Full dataset size | 37 records |
+| Free sample size | 3 records (8.11%) |
+| Last export | 2026-04-21T23:19:14.087256+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-castle-rock-colorado-us-sample-529018/releases/download/sample-latest/beamstation_529018_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
